@@ -73,7 +73,7 @@ O projeto foi desenvolvido através do método CRISP-DM, aplicando os seguintes 
 
   **Passo 11 - Telegram Bot:** O objetivo desta etapa é criar um bot no aplicativo do telegram, que possibilite consultar a previsão a qualquer momento.
 <br><br>
-## 3. Top insights
+## 3. Top 3 insights
 ### **H1.** Lojas com maior sortimento deveriam vender mais.
 **FALSA** - Lojas com maior **SORTIMENTO** vendem **MENOS**
 ![image](img/H1.png)
@@ -82,7 +82,10 @@ O projeto foi desenvolvido através do método CRISP-DM, aplicando os seguintes 
 ### **H7.** Lojas deveriam vender mais no feriado de natal.
 **FALSA** - No **natal** as lojas vendem ***MENOS**
 <br><br>
-![image](img/H7.png)
+### **H9.** Lojas deveriam vender mais no segundo semestre.
+**FALSA** - As lojas vendem ***MENOS** no segundo semestre
+<br><br>
+![image](img/H9.png)
 
 ## 4. Modelos utilizados
 - Média;
