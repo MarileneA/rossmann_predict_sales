@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/95088918/159572878-52a943df-c8c8-458f-b2cd-3b3a62ebf331.png)
 # Rossmann
-</b>Este é um projeto de previsão de vendas, construído com ferramentas de Machine Learning para prever as vendas de uma rede de farmácias nas próximas seis semanas.<br>
+</b>Este é um projeto construído com ferramentas de Machine Learning para prever as vendas de uma rede de farmácias nas próximas seis semanas.<br>
 
 <p align='center'>
     <img src = 'img/image.jpg'>
