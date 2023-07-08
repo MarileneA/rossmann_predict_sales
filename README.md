@@ -79,9 +79,10 @@ O projeto foi desenvolvido através do método CRISP-DM, aplicando os seguintes 
 ![image](img/H1.png)
 
 <br><br>
-### **H7.** Lojas deveriam vender mais no feriado de natal.
+### **H6.** Lojas deveriam vender mais no feriado de natal.
 **FALSA** - No **natal** as lojas vendem ***MENOS**
 <br><br>
+![H 6](https://github.com/MarileneA/MarileneA/assets/87071331/874d614a-4ddc-4df6-9a66-4364f27cf66d)
 ### **H9.** Lojas deveriam vender mais no segundo semestre.
 **FALSA** - As lojas vendem ***MENOS** no segundo semestre
 <br><br>
